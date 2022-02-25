@@ -8,7 +8,7 @@ Deberás escribir en la terminal
 
 ```
 
-' cowsay "hola" '
+' cowsay "tu mensaje" '
 
 ```
 
@@ -16,6 +16,7 @@ y te mostrara:
 
 ```
  ________________________________________
+ tumesaje
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
