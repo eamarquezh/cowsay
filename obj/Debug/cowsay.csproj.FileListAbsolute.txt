@@ -1,0 +1,7 @@
+C:\Users\super\source\repos\cowsay\bin\Debug\cowsay.exe.config
+C:\Users\super\source\repos\cowsay\bin\Debug\cowsay.exe
+C:\Users\super\source\repos\cowsay\bin\Debug\cowsay.pdb
+C:\Users\super\source\repos\cowsay\obj\Debug\cowsay.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\cowsay\obj\Debug\cowsay.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\cowsay\obj\Debug\cowsay.exe
+C:\Users\super\source\repos\cowsay\obj\Debug\cowsay.pdb

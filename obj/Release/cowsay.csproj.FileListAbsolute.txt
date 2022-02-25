@@ -1,0 +1,6 @@
+C:\Users\super\source\repos\cowsay\bin\Release\cowsay.exe.config
+C:\Users\super\source\repos\cowsay\bin\Release\cowsay.exe
+C:\Users\super\source\repos\cowsay\bin\Release\cowsay.pdb
+C:\Users\super\source\repos\cowsay\obj\Release\cowsay.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\cowsay\obj\Release\cowsay.exe
+C:\Users\super\source\repos\cowsay\obj\Release\cowsay.pdb
